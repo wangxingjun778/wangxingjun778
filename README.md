@@ -40,6 +40,6 @@ I earned my **M.S.** from **Peking University (PKU)** and my **B.S.** from **Xi'
 > *arXiv 2025* | [[ModelScope]](https://www.modelscope.cn/models/DiffSynth-Studio/Nexus-Gen)
 
 > **[FaceChain](https://arxiv.org/abs/2308.14256): A Playground for Identity-Preserving Portrait Generation** > Y. Liu, C. Yu, L. Shang, **Xingjun Wang**, et al.  
-> *arXiv 2023* | 🔥 *10k+ Stars on GitHub* > [[Code]](https://github.com/modelscope/facechain)
+> *arXiv 2023* | 🔥 *9.5k+ Stars on GitHub* > [[Code]](https://github.com/modelscope/facechain)
 
 ---
