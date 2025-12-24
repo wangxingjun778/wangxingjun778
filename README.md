@@ -1,6 +1,7 @@
 ## Hi there! 👋  I'm Xingjun Wang (wangxingjun778)
 
-**Researcher/Engineer @ Alibaba Tongyi Lab, ModelScope Team** `Open Source Advocate` | `LLM & Agent Researcher` | `PKU & XJTU Alumnus`
+**Researcher/Engineer @ Alibaba Tongyi Lab, ModelScope Team** 
+<br> `Open Source Advocate` | `LLM & Agent Researcher` | `PKU & XJTU Alumnus`
 
 ---
 
