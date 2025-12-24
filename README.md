@@ -15,7 +15,7 @@ I earned my **M.S.** from **Peking University (PKU)** and my **B.S.** from **Xi'
 
 ### 🔍 Research Interests
 
-* **Autonomous Agent Systems**: Developing **Long-Horizon Agents** with autonomous exploration capabilities and advancing **Agentic Reinforcement Learning**.
+* **Autonomous Agent Systems**: Developing **Long-Horizon Agents** with autonomous exploration capabilities and advancing Agentic Reinforcement Learning.
 * **Unified Multimodal Models**: Architecting and optimizing **Any-to-Any** multimodal understanding and generation systems (e.g., Nexus-Gen).
 * **Multimodal Reasoning**: Enhancing complex logical inference and step-by-step reasoning in cross-modal architectures.
 * **Automated LLM Evaluation**: Designing scalable, reliable, and bias-aware benchmarking methodologies for next-generation foundation models.
