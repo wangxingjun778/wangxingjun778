@@ -6,9 +6,9 @@
 ---
 
 ### 🚀 About Me
-I am a Researcher/Engineer at **Alibaba Tongyi Lab**, where I spearhead the development of dataset infrastructure, LLM evaluation protocols, and autonomous agent systems for the **ModelScope** community. 
+I am a Researcher/Engineer at **Alibaba Tongyi Lab**, where I design and implement dataset infrastructure, LLM evaluation framework, and autonomous agent system for the **ModelScope** community. 
 
-As a core maintainer of **ModelScope SDK**, **EvalScope**, **MS-Agent**, and **FaceChain**, I am deeply committed to fostering open-source excellence and building scalable AI ecosystems.
+As a core maintainer of **ModelScope SDK**, **EvalScope**, **MS-Agent**, and **FaceChain**, my works follow the "code-first, research-driven" paradigm.
 
 I earned my **M.S.** from **Peking University (PKU)** and my **B.S.** from **Xi'an Jiaotong University (XJTU)**.
 
