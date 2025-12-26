@@ -29,7 +29,7 @@ I earned my **M.S.** from **Peking University (PKU)** and my **B.S.** from **Xi'
 > *ACM Multimedia Asia 2025* | 🏆 **Best Paper Award** > [[Paper]](https://arxiv.org/abs/2501.01097)
 
 > **[SWIFT](https://arxiv.org/abs/2408.05517): A Scalable lightWeight Infrastructure for Fine-Tuning** > Y. Zhao, J. Huang, J. Hu, **Xingjun Wang**, et al.  
-> *AAAI 2025 (System Demo)* | 🛠️ *Core Infrastructure for LLM Fine-tuning* > [[Paper]](https://arxiv.org/abs/2408.05517) | [[Code]](https://github.com/modelscope/ms-swift)
+> *AAAI 2025 (System Demo)* | 🛠️ *Core Infrastructure for LLM Fine-tuning* | 🔥 10k+ Stars on GitHub> [[Paper]](https://arxiv.org/abs/2408.05517) | [[Code]](https://github.com/modelscope/ms-swift)
 
 > **[UniME](https://arxiv.org/abs/2504.17432): Breaking the Modality Barrier: Universal Embedding Learning with Multimodal LLMs** > T. Gu, K. Yang, Z. Feng, **Xingjun Wang**, et al.  
 > *ACM Multimedia 2025*
