@@ -14,7 +14,7 @@ I earned my **M.S.** from **Peking University (PKU)** and my **B.S.** from **Xi'
 
 ---
 
-### 🔍 Research Interests
+### 🎓 Research Interests
 
 * **Autonomous Agent Systems**: Developing **Long-Horizon Agents** with autonomous exploration capabilities and advancing Agentic Reinforcement Learning.
 * **Unified Multimodal Models**: Architecting and optimizing **Any-to-Any** multimodal understanding and generation systems (e.g., Nexus-Gen).
@@ -42,5 +42,11 @@ I earned my **M.S.** from **Peking University (PKU)** and my **B.S.** from **Xi'
 
 > **[FaceChain](https://arxiv.org/abs/2308.14256): A Playground for Identity-Preserving Portrait Generation** > Y. Liu, C. Yu, L. Shang, **Xingjun Wang**, et al.  
 > *arXiv 2023* | 🔥 *9.5k+ Stars on GitHub* > [[Code]](https://github.com/modelscope/facechain)
+
+---
+
+### ⚖️ Professional Services
+
+* **Program Committee Member | Reviewer**: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26)
 
 ---
