@@ -50,3 +50,6 @@ I earned my **M.S.** from **Peking University (PKU)** and my **B.S.** from **Xi'
 * **Program Committee Member | Reviewer**: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26)
 
 ---
+
+![VISITORS](https://api.visitorbadge.io/api/visitors?path=https://github.com/wangxingjun778&label=VISITORS&labelColor=%23f4f4f4&countColor=%2334d399&style=flat)
+
