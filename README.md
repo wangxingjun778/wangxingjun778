@@ -51,5 +51,5 @@ I earned my **M.S.** from **Peking University (PKU)** and my **B.S.** from **Xi'
 
 ---
 
-![VISITORS](https://api.visitorbadge.io/api/visitors?path=https://github.com/wangxingjun778&label=VISITORS&labelColor=%23f4f4f4&countColor=%2334d399&style=flat)
+Since Dec 30, 2025 <sub>![VISITORS](https://api.visitorbadge.io/api/visitors?path=https://github.com/wangxingjun778&label=VISITORS&labelColor=%23f4f4f4&countColor=%2334d399&style=flat)</sub>
 
