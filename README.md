@@ -8,7 +8,7 @@
 ### 🚀 About Me
 I am a Researcher/Engineer at **Alibaba Tongyi Lab**, where I design and implement dataset infrastructure, LLM evaluation framework, and autonomous agent system for the **ModelScope** community. 
 
-As a core maintainer of **ModelScope SDK**, **EvalScope**, **MS-Agent**, and **FaceChain**, my works follow the "code-first, research-driven" paradigm.
+As a core maintainer of **ModelScope SDK**, **EvalScope**, **MS-Agent**, **Sirchmunk** and **FaceChain**, my works follow the "code-first, research-driven" paradigm.
 
 I earned my **M.S.** from **Peking University (PKU)** and my **B.S.** from **Xi'an Jiaotong University (XJTU)**.
 
@@ -42,6 +42,10 @@ I earned my **M.S.** from **Peking University (PKU)** and my **B.S.** from **Xi'
 
 > **[FaceChain](https://arxiv.org/abs/2308.14256): A Playground for Identity-Preserving Portrait Generation** > Y. Liu, C. Yu, L. Shang, **Xingjun Wang**, et al.  
 > *arXiv 2023* | 🔥 *9.5k+ Stars on GitHub* > [[Code]](https://github.com/modelscope/facechain)
+
+> **[Sirchmunk](https://github.com/modelscope/sirchmunk): Raw Data to Self-Evolving Intelligence, Real-Time** > **Xingjun Wang**, ModelScope Team, et al.  
+> ModelScope 2026 | 🐿️ Agentic Search & Real-time Knowledge Engine > [[Code]](https://github.com/modelscope/sirchmunk) | [[Documentation]](https://modelscope.github.io/sirchmunk-web)
+
 
 ---
 
